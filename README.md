@@ -12,13 +12,13 @@ Entities such as family households and small, medium, and large enterprises usua
 
                     Applications Models:
 
-Owner
+    Owner
 This stores all the people granted custody of any asset.
 
-Assetlist
+    Assetlist
 This model keeps records of all assets owned by the entity or organisation.
 
-Asset
+    Asset
 This model keeps a record of the characteristics of an individual asset.
 
 
